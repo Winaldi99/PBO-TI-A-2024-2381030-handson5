@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CRUD {
+public class Main {
     public static String[] todos = new String[10];
     public static Scanner scanner = new Scanner(System.in);
 
